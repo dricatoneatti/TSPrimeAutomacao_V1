@@ -114,7 +114,7 @@ public class FacilitadorFuncoes extends DriverPage {
             String saldo = getElementXpath ("//div[@class='col-one']//span[@id='MainPageAccUC_AccBalance']").getText ();
             System.out.println ("Saldo do crédito do cartão: " + saldo);
 
-            wait.until (ExpectedConditions.visibilityOfElementLocated (By.xpath ("//div[@id='MainPageCardxUC_CardPanel']//a[@id='MainPageCardxUC_AuthDetail']")));
+            //wait.until (ExpectedConditions.visibilityOfElementLocated (By.xpath ("//div[@id='MainPageCardxUC_CardPanel']//a[@id='MainPageCardxUC_AuthDetail']")));
             //Acessar o Autorizador
 
             getElementXpath ("//div[@id='MainPageCardxUC_CardPanel']//a[@id='MainPageCardxUC_AuthDetail']").click ();
@@ -168,10 +168,10 @@ public class FacilitadorFuncoes extends DriverPage {
             System.out.println ("Saldo do crédito do cartão: " + saldo);
 
            //Acessar o Autorizador
-            wait.until (ExpectedConditions.visibilityOfElementLocated (By.xpath ("//div[@id='MainPageCardxUC_CardPanel']//a[@id='MainPageCardxUC_AuthDetail']")));
+            //wait.until (ExpectedConditions.visibilityOfElementLocated (By.xpath ("//div[@id='MainPageCardxUC_CardPanel']//a[@id='MainPageCardxUC_AuthDetail']")));
             getElementXpath ("//div[@id='MainPageCardxUC_CardPanel']//a[@id='MainPageCardxUC_AuthDetail']").click ();
 
-            wait.until (ExpectedConditions.visibilityOfElementLocated (By.xpath ("//input[@name='basePage_menuContent$ctl01']")));
+            //wait.until (ExpectedConditions.visibilityOfElementLocated (By.xpath ("//input[@name='basePage_menuContent$ctl01']")));
             getElementXpath ("//input[@name='basePage_menuContent$ctl01']").click ();
 
             //Validar o código de retorno da transação

@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/Bases/release184.feature" line="2" />
+  </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="bbefec3f-0d61-44e9-a2dc-d08be67aa87b" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
-=======
     <list default="true" id="2fa2864f-57ad-4404-bebf-8ae43bd2255f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/Bases/release184.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Bases/release184.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Bases/DriverPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Bases/DriverPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Bases/FacilitadorFuncoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Bases/FacilitadorFuncoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Bases/LerExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Bases/LerExcel.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ConsultaCreditoRotativo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ConsultaCreditoRotativo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-=======
   <component name="FUSProjectUsageTrigger">
     <session id="-1843996262">
       <usages-collector id="statistics.lifecycle.project">
@@ -85,110 +77,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Bases/DriverPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Bases/FacilitadorFuncoes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-              <folding>
-                <element signature="method#alterarIdioma#0;class#FacilitadorFuncoes#0" />
-                <element signature="method#buscaPorCartao#0;class#FacilitadorFuncoes#0" />
-                <element signature="method#opcaoatendimentoCliente#0;class#FacilitadorFuncoes#0" />
-                <element signature="method#localizarSaldoDoCreditoCartao#0;class#FacilitadorFuncoes#0" />
-                <element signature="method#acessarTransacaoNegadaCartaoInativoAutorizador#0;class#FacilitadorFuncoes#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Cenarios/ConsultaCreditoRotativo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
+      <file leaf-file-name="release184.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Bases/release184.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="11" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="RealizarCompraEmLojaComCartaoInativoOnUs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Cenarios/RealizarCompraEmLojaComCartaoInativoOnUs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="-146">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#670#671#0" expanded="true" />
-                <element signature="e#709#710#0" expanded="true" />
-              </folding>
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="FacilitadorFuncoes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/FacilitadorFuncoes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="125" column="33" selection-start-line="125" selection-start-column="33" selection-end-line="125" selection-end-column="33" />
-              <folding>
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-=======
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="RealizarCompraOffusAvistaChipAprovada.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Cenarios/RealizarCompraOffusAvistaChipAprovada.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="-163">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DriverPage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Bases/DriverPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FacilitadorFuncoes.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Bases/FacilitadorFuncoes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2788">
+              <caret line="173" column="14" selection-start-line="173" selection-start-column="14" selection-end-line="173" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LerExcel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Bases/LerExcel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="9" column="85" lean-forward="true" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-<<<<<<< HEAD
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-=======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -205,16 +149,10 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/test/java/DriverPage.java" />
-=======
         <option value="$PROJECT_DIR$/src/test/java/LerExcel.java" />
         <option value="$PROJECT_DIR$/src/test/java/FacilitadorFuncoesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/RealizarCompraOffusAvistaChipAprovada.java" />
@@ -222,7 +160,6 @@
         <option value="$PROJECT_DIR$/src/test/java/FacilitadorFuncoes.java" />
         <option value="$PROJECT_DIR$/src/test/java/cucumber.feature" />
         <option value="$PROJECT_DIR$/Bases/cucumber.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/Bases/FacilitadorFuncoes.java" />
         <option value="$PROJECT_DIR$/Bases/FacilitadorFuncoes.java" />
         <option value="$PROJECT_DIR$/src/test/java/ConsultaCreditoRotativo.java" />
         <option value="$PROJECT_DIR$/src/test/java/RealizarCompraEmLojaComCartaoInativoOnUs.java" />
@@ -230,54 +167,64 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Bases/cucumber.feature" />
         <option value="$PROJECT_DIR$/src/test/java/Bases/release184.feature" />
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
+        <option value="$PROJECT_DIR$/src/test/java/Cenarios/ConsultaCreditoRotativo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Bases/FacilitadorFuncoes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Bases/DriverPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Bases/LerExcel.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
-<<<<<<< HEAD
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="alwaysUpdateSnapshots" value="true" />
-      </MavenGeneralSettings>
-    </option>
-=======
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-<<<<<<< HEAD
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Autorizador" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Autorizador" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Autorizador" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="jar" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Autorizador" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
-=======
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="11" />
     <option name="width" value="1346" />
     <option name="height" value="698" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
-      <pane id="Scope" />
-=======
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-<<<<<<< HEAD
               <item name="TsPrimeTests" type="b2602c69:ProjectViewProjectNode" />
               <item name="TsPrimeTests" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -285,6 +232,12 @@
               <item name="TsPrimeTests" type="b2602c69:ProjectViewProjectNode" />
               <item name="TsPrimeTests" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TsPrimeTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TsPrimeTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chromedriver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TsPrimeTests" type="b2602c69:ProjectViewProjectNode" />
@@ -292,52 +245,34 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-=======
-              <item name="Autorizador" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autorizador" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
-              <item name="Autorizador" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autorizador" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Autorizador" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autorizador" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Autorizador" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autorizador" type="462c0819:PsiDirectoryNode" />
+              <item name="TsPrimeTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TsPrimeTests" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Autorizador" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Autorizador" type="462c0819:PsiDirectoryNode" />
+              <item name="TsPrimeTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TsPrimeTests" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Bases" type="462c0819:PsiDirectoryNode" />
             </path>
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
+            <path>
+              <item name="TsPrimeTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TsPrimeTests" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Cenarios" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-<<<<<<< HEAD
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-=======
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,7 +280,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -365,7 +300,6 @@
       <recent name="C:\Users\640244\IdeaProjects\Autorizador\src\test\java" />
       <recent name="C:\Users\640244\IdeaProjects\Autorizador\Bases" />
     </key>
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -379,152 +313,136 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="JUnit.ConsultaCreditoRotativo">
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="ConsultaCreditoRotativo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ConsultaCreditoRotativo (1)">
+    <configuration name="ConsultaCreditoRotativo (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Autorizador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cenarios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConsultaCreditoRotativo" />
+      <option name="PACKAGE_NAME" value="Cenarios" />
+      <option name="MAIN_CLASS_NAME" value="Cenarios.ConsultaCreditoRotativo" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <patterns />
     </configuration>
-    <configuration name="RealizarCompraEmLojaComCartaoInativoOnUs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConsultaCreditoRotativo.ConsultarCartao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Autorizador" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cenarios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RealizarCompraEmLojaComCartaoInativoOnUs" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PACKAGE_NAME" value="Cenarios" />
+      <option name="MAIN_CLASS_NAME" value="Cenarios.ConsultaCreditoRotativo" />
+      <option name="METHOD_NAME" value="ConsultarCartao" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="WORKING_DIRECTORY" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <list>
-      <item itemvalue="JUnit.RealizarCompraEmLojaComCartaoInativoOnUs" />
-      <item itemvalue="JUnit.ConsultaCreditoRotativo" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.ConsultaCreditoRotativo" />
-        <item itemvalue="JUnit.RealizarCompraEmLojaComCartaoInativoOnUs" />
-=======
-  <component name="RunManager" selected="JUnit.RealizarCompraEmLojaComCartaoInativoOnUs">
-    <configuration name="ConsultaCreditoRotativo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Autorizador" />
-      <option name="PACKAGE_NAME" value="Testes" />
-      <option name="MAIN_CLASS_NAME" value="Testes.ConsultaCreditoRotativo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="ConsultaCreditoRotativo.acessarCliente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Autorizador" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Testes" />
       <option name="MAIN_CLASS_NAME" value="Testes.ConsultaCreditoRotativo" />
       <option name="METHOD_NAME" value="acessarCliente" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="ConsultaCreditoRotativo.setUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Autorizador" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Testes" />
       <option name="MAIN_CLASS_NAME" value="Testes.ConsultaCreditoRotativo" />
       <option name="METHOD_NAME" value="setUp" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="RealizarCompraEmLojaComCartaoInativoOnUs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RealizarCompraEmLojaComCartaoInativoOnUs" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="Autorizador" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Testes" />
       <option name="MAIN_CLASS_NAME" value="Testes.RealizarCompraEmLojaComCartaoInativoOnUs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="RealizarCompraOffusAvistaChipAprovada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Autorizador" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Testes" />
       <option name="MAIN_CLASS_NAME" value="Testes.RealizarCompraOffusAvistaChipAprovada" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <list>
-      <item itemvalue="JUnit.ConsultaCreditoRotativo" />
+      <item itemvalue="JUnit.RealizarCompraEmLojaComCartaoInativoOnUs" />
       <item itemvalue="JUnit.ConsultaCreditoRotativo.setUp" />
       <item itemvalue="JUnit.ConsultaCreditoRotativo.acessarCliente" />
       <item itemvalue="JUnit.RealizarCompraOffusAvistaChipAprovada" />
-      <item itemvalue="JUnit.RealizarCompraEmLojaComCartaoInativoOnUs" />
+      <item itemvalue="JUnit.ConsultaCreditoRotativo (1)" />
+      <item itemvalue="JUnit.ConsultaCreditoRotativo.ConsultarCartao" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RealizarCompraEmLojaComCartaoInativoOnUs" />
+        <item itemvalue="JUnit.ConsultaCreditoRotativo (1)" />
+        <item itemvalue="JUnit.ConsultaCreditoRotativo.setUp" />
+        <item itemvalue="JUnit.ConsultaCreditoRotativo.ConsultarCartao" />
         <item itemvalue="JUnit.RealizarCompraOffusAvistaChipAprovada" />
         <item itemvalue="JUnit.ConsultaCreditoRotativo.acessarCliente" />
-        <item itemvalue="JUnit.ConsultaCreditoRotativo.setUp" />
-        <item itemvalue="JUnit.ConsultaCreditoRotativo" />
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
       </list>
     </recent_temporary>
   </component>
@@ -533,45 +451,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="bbefec3f-0d61-44e9-a2dc-d08be67aa87b" name="Default" comment="" />
-      <created>1534957136606</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1534957136606</updated>
-    </task>
-    <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32838285" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-=======
       <changelist id="2fa2864f-57ad-4404-bebf-8ae43bd2255f" name="Default Changelist" comment="" />
       <created>1533922723511</created>
       <option name="number" value="Default" />
@@ -589,21 +468,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RealizarCompraEmLojaComCartaoInativoOnUs - 2018.08.21 at 08h 55m 26s.xml">
-      <configuration name="RealizarCompraEmLojaComCartaoInativoOnUs" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RealizarCompraEmLojaComCartaoInativoOnUs - 2018.08.21 at 08h 59m 25s.xml">
-      <configuration name="RealizarCompraEmLojaComCartaoInativoOnUs" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RealizarCompraEmLojaComCartaoInativoOnUs - 2018.08.21 at 09h 01m 37s.xml">
-      <configuration name="RealizarCompraEmLojaComCartaoInativoOnUs" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RealizarCompraEmLojaComCartaoInativoOnUs - 2018.08.21 at 09h 03m 24s.xml">
-      <configuration name="RealizarCompraEmLojaComCartaoInativoOnUs" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RealizarCompraEmLojaComCartaoInativoOnUs - 2018.08.21 at 09h 06m 26s.xml">
-      <configuration name="RealizarCompraEmLojaComCartaoInativoOnUs" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RealizarCompraEmLojaComCartaoInativoOnUs - 2018.08.21 at 09h 08m 18s.xml">
       <configuration name="RealizarCompraEmLojaComCartaoInativoOnUs" configurationId="JUnit" />
     </history-entry>
@@ -619,45 +483,98 @@
     <history-entry file="RealizarCompraEmLojaComCartaoInativoOnUs - 2018.08.22 at 15h 53m 44s.xml">
       <configuration name="RealizarCompraEmLojaComCartaoInativoOnUs" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ConsultaCreditoRotativo_(1) - 2018.08.22 at 17h 54m 29s.xml">
+      <configuration name="ConsultaCreditoRotativo (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConsultaCreditoRotativo_(1) - 2018.08.22 at 17h 55m 53s.xml">
+      <configuration name="ConsultaCreditoRotativo (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConsultaCreditoRotativo_(1) - 2018.08.22 at 17h 59m 18s.xml">
+      <configuration name="ConsultaCreditoRotativo (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConsultaCreditoRotativo_(1) - 2018.08.22 at 18h 00m 25s.xml">
+      <configuration name="ConsultaCreditoRotativo (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConsultaCreditoRotativo_(1) - 2018.08.22 at 18h 08m 33s.xml">
+      <configuration name="ConsultaCreditoRotativo (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.40409955" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50073206" side_tool="true" weight="0.32866043" />
-      <window_info anchor="bottom" id="Find" order="4" visible="true" weight="0.32866043" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49926794" weight="0.4049844" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.39875388" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32866043" />
       <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32838285" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50073206" side_tool="true" weight="0.32866043" />
       <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49926794" visible="true" weight="0.40429044" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.41754916" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39875388" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="4" visible="true" weight="0.32866043" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-<<<<<<< HEAD
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TsPrime Teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="TsPrime Teste" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/release184.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cenarios/ConsultaCreditoRotativo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/FacilitadorFuncoes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="116" column="16" selection-start-line="116" selection-start-column="16" selection-end-line="116" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/release184.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ConsultaCreditoRotativo.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/FacilitadorFuncoes.java" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="547">
@@ -665,196 +582,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-576">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FacilitadorFuncoesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RealizarCompraEmLojaComCartaoInativoOnUs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DriverPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-=======
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="TsPrime Teste" />
-    <option name="LAST_COMMIT_MESSAGE" value="TsPrime Teste" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/WebDriverWait.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/By.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="160" selection-start-line="160" selection-end-line="160" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="395" selection-start-line="395" selection-end-line="395" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/FluentWait.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="556" selection-start-line="556" selection-end-line="556" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/LerExcel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FacilitadorFuncoesTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/RealizarCompraEmLojaComCartaoInativoOnUs.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/DriverPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/FacilitadorFuncoes.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ConsultaCreditoRotativo.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Bases/DriverPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/test/java/FacilitadorFuncoes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="125" column="33" selection-start-line="125" selection-start-column="33" selection-end-line="125" selection-end-column="33" />
-          <folding>
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/DriverPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FacilitadorFuncoesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Bases/FacilitadorFuncoes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-          <folding>
-            <element signature="method#alterarIdioma#0;class#FacilitadorFuncoes#0" />
-            <element signature="method#buscaPorCartao#0;class#FacilitadorFuncoes#0" />
-            <element signature="method#opcaoatendimentoCliente#0;class#FacilitadorFuncoes#0" />
-            <element signature="method#localizarSaldoDoCreditoCartao#0;class#FacilitadorFuncoes#0" />
-            <element signature="method#acessarTransacaoNegadaCartaoInativoAutorizador#0;class#FacilitadorFuncoes#0" />
-          </folding>
+        <state relative-caret-position="-2771">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cenarios/RealizarCompraOffusAvistaChipAprovada.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/release184.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Cenarios/RealizarCompraEmLojaComCartaoInativoOnUs.java">
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#709#710#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="52" column="34" selection-start-line="52" selection-start-column="34" selection-end-line="52" selection-end-column="34" />
+        <state relative-caret-position="320">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/cucumber.feature">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/WebDriverWait.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/By.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/FluentWait.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/DriverPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="51" />
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FacilitadorFuncoesTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/cucumber.feature" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="38" column="16" lean-forward="true" selection-end-line="61" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/release184.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cenarios/RealizarCompraEmLojaComCartaoInativoOnUs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Cenarios/RealizarCompraOffusAvistaChipAprovada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-163">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Cenarios/ConsultaCreditoRotativo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/src/test/java/ConsultaCreditoRotativo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/release184.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/LerExcel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="11" />
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
+          <caret line="9" column="85" lean-forward="true" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/FacilitadorFuncoes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2788">
+          <caret line="173" column="14" selection-start-line="173" selection-start-column="14" selection-end-line="173" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Bases/DriverPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -898,11 +742,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-<<<<<<< HEAD
           <last-edited>10</last-edited>
-=======
-          <last-edited>1.8</last-edited>
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -919,10 +759,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-<<<<<<< HEAD
                 <option value="0.6" />
-=======
->>>>>>> 54ee344f79e5efaebe2fe93978f0c4e2cecb5f59
               </list>
             </option>
           </splitter-proportions>

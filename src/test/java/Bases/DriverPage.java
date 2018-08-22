@@ -11,7 +11,7 @@ public class DriverPage {
     public WebDriverWait wait;
 
     public void getChrome(String url){
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\640244\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "src\\chromedriver\\chromedriver.exe");
         driver = new ChromeDriver();
         wait = new WebDriverWait(driver,20);
         getUrl(url); // Navegação para a url solicitada
