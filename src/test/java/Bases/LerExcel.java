@@ -10,7 +10,7 @@ public class LerExcel {
     public static  ArrayList<String> leituraCartao(int numCartoes) throws Exception {
 
         // Localizar o caminho do arquivo Excel. (Alterar para o proprio de referencia)
-        FileInputStream diretorio = new FileInputStream("C:\\Users\\640244\\Documents\\IniciativaCSF\\Cartoes.xlsx");
+        FileInputStream diretorio = new FileInputStream("src\\excel\\Cartoes.xlsx");
 
         // Criar a variável "wb" do tipo WorkBook.
         XSSFWorkbook wb = new XSSFWorkbook(diretorio);
